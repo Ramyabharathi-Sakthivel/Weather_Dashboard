@@ -68,3 +68,12 @@ Papa.parse("/weather.csv", {
 
 No external weather API is used.
 No API key is required.
+
+## 📸 Sample Output
+
+<img width="1919" height="745" alt="image" src="https://github.com/user-attachments/assets/3019c280-db81-4eec-83d8-30861ba0f74d" />
+<img width="1911" height="665" alt="image" src="https://github.com/user-attachments/assets/8569b6a5-86a0-4497-8e07-856181401861" />
+<img width="1919" height="422" alt="image" src="https://github.com/user-attachments/assets/f9506808-00e6-4d04-8080-8cb1316aeaf7" />
+
+
+
