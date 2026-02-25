@@ -45,8 +45,6 @@ export const getWeatherByDate = async (date) => {
     return null;
   }
 
-  /* detect correct column names */
-
   const temperature = row["_tempm"] || row[" _tempm"];
   const humidity = row["_hum"] || row[" _hum"];
   const pressure = row["_pressurem"] || row[" _pressurem"];
