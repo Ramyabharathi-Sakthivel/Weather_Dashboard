@@ -31,7 +31,6 @@ export const loadCSV = () => {
 export const getWeatherByDate = async (date) => {
   await loadCSV();
 
-  /* Convert YYYY-MM-DD → YYYYMMDD */
 
   const formatted = date.replaceAll("-", "");
 
